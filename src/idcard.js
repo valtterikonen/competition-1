@@ -1,4 +1,5 @@
 import Info from './info';
+import './App.css';
 
 const profiles = [
   { lastName: 'Doe', firstName: 'John', gender: 'Male', height: 180, birth: '1990-01-01', picture: 'men'},
