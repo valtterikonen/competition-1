@@ -1,0 +1,16 @@
+
+.info {
+  display: block;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  display: flex;
+  font-size: 20px;
+  border: 3px solid black;
+}
+
+ul, ol {
+  list-style-type: none;
+}
